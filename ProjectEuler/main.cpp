@@ -7,10 +7,10 @@
 //
 
 #include <iostream>
-#include "Problem1.h"
+#include "Problem2.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << print_3_5_multiples() << std::endl;
+    std::cout << sum_even_fibonacci() << std::endl;
     return 0;
 }
