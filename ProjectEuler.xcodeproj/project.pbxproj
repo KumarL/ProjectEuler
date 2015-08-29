@@ -27,6 +27,7 @@
 		4D7274641B92394E009EAD50 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		4D72746B1B923BAB009EAD50 /* Problem1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Problem1.h; sourceTree = "<group>"; };
 		4D72746C1B92402F009EAD50 /* Problem2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Problem2.h; sourceTree = "<group>"; };
+		CF0267191B924FD600C843CE /* Problem3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Problem3.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		4D7274631B92394E009EAD50 /* ProjectEuler */ = {
 			isa = PBXGroup;
 			children = (
+				CF0267191B924FD600C843CE /* Problem3.h */,
 				4D72746B1B923BAB009EAD50 /* Problem1.h */,
 				4D7274641B92394E009EAD50 /* main.cpp */,
 				4D72746C1B92402F009EAD50 /* Problem2.h */,
