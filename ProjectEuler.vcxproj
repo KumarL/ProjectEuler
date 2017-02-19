@@ -101,6 +101,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="projecteuler\Problem1.h" />
+    <ClInclude Include="ProjectEuler\Problem11.h" />
     <ClInclude Include="projecteuler\Problem2.h" />
     <ClInclude Include="projecteuler\Problem3.h" />
     <ClInclude Include="projecteuler\Problem4.h" />

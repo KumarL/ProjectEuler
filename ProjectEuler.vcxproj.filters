@@ -35,6 +35,9 @@
     <ClInclude Include="projecteuler\Problem5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ProjectEuler\Problem11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="projecteuler\Problem6.hs">
